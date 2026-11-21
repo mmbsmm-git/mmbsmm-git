@@ -4,9 +4,11 @@
 # 我的社交账号  
 [bilibili](https://space.bilibili.com/3494371066383201 "梅梅不是没没的个人空间")  
 # 会的技能  
-一点点markdown（太久没用快忘干净了）  
+一点点markdown（太久没用快忘干净了）
+一点点Flutter
+鞭策ai帮我写代码（呜呜呜孩子没钱了，只能用客户端写了）
 # 想学的东西  
-flutter  
+Flutter  
 画画  
 建模  
 # 想做的事  
@@ -14,14 +16,14 @@ flutter
 做项目得奖  
 # 拥有的东西  
 雄鹰般的语言系统  
-老旧设备（一台笔记本电脑，一个优学派学生平板，一台iPhoneX）  
+老旧设备（一台笔记本电脑，一个优学派学生平板，一台华为mate30 5G）  
 空空的钱包  
 # 喜欢的东西  
 md3设计  
 fluent设计  
 猫  
-fedora linux  
-hyprland  
+fedora linux（虽然我现在用的CachyOS，因为性能好，这何尝不是一种ntr😅）  
+gnome  
 # 喜欢做的事  
 ~~构思未来~~ 沉迷于幻想中  
 折腾安卓设备  
@@ -32,3 +34,4 @@ hyprland
 在QQ里骚扰朋友  
 睡觉  
 吃零食  
+熬夜玩机
